@@ -1,0 +1,134 @@
+body {
+background-image: url(Genshin/Fundo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+max-width: 1366px;
+max-height: 768px;
+width: auto;
+height: auto;
+left: 0px;
+margin-top: 130px;
+}
+
+#menuGenshin {
+position: absolute;
+size: cover;
+width: 1270px;
+height: 130px;
+top: -16;
+left: 0;
+background-color: #222222;
+}
+
+#Linha {
+height: 130px;
+border-right: 1px solid white;
+border-image: linear-gradient(to top, rgba(255, 255, 255, 0), white, rgba(255, 255, 255, 0)) 1 100%;
+position: relative;
+float: left;
+top: 0;
+left: 130;
+}
+
+
+#paimon {
+max-width: 130px;
+max-height: 130px;
+position: relative;
+top: -130;
+left: -20px;
+margin-right: 1200px;
+}
+
+
+#paimon1 {
+max-width: 421px;
+max-height: 524px;
+position: relative;
+left: 850;
+top: 40px;
+right: 0px;
+}
+
+#caixinha {
+	width: 523px;
+	height: 188px;
+	background: radial-gradient(318.29% 318.29% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+	border-radius: 38px 38px 0px 38px;
+	position: absolute;
+	left: 500px;
+	top: 140px;
+}
+
+#Mensagem {
+	font-size: 26px;
+	text-align: left;
+	margin-left: 10px;
+	font-family: "HYWenHei 85W Regular";
+}
+
+@font-face {
+	font-family: "HYWenHei 85W Regular";
+	src: url(C:\Users\Fatima\AppData\Local\Microsoft\Windows\Fonts);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
